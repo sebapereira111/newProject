@@ -11,3 +11,5 @@ Otro commit desde la web
 Nuevo commit local
 
 Nuevo commit remoto
+
+Un commit para rebase
